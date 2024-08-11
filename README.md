@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-v18.2.0-blue.svg?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-v4.0.0-blueviolet.svg?style=flat&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.2.0-38B2AC.svg?style=flat&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## 📝 Overview
 
