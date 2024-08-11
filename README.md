@@ -27,16 +27,17 @@ Make sure you have the following installed:
 
 ### Installation
 
-**1.Clone the repository**:
+**1. Clone the repository**:
 
-  ```bash
+   ```bash
    git clone https://github.com/Rushikesh-purohit-0503/currency-converter.git
    cd currency-converter
+   ```
    
-**2.Install Dependencies**:
+ **2. Install Dependencies**:
  ```bash
- npm install
-
+ npm install 
+ ```
 ## Technologies Used
 
 - **[React](https://reactjs.org/)**: Front-end library for building user interfaces.
