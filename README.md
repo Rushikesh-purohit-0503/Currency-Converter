@@ -38,6 +38,31 @@ Make sure you have the following installed:
  ```bash
  npm install 
  ```
+ ## 🖌 Tailwind CSS Configuration
+
+Customize your design in `tailwind.config.js` or add custom styles in `src/index.css`.
+
+Make sure this Configurations in `tailwind.config.js`: 
+```bash
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+**Also Make sure that below code there in `index.css`:
+```bash
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
 ## Technologies Used
 
 - **[React](https://reactjs.org/)**: Front-end library for building user interfaces.
