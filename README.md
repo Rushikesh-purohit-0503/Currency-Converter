@@ -56,7 +56,7 @@ export default {
   plugins: [],
 }
 ```
-** Also Make sure that below code is there in `index.css`:
+## Also Make sure that below code is there in `index.css`:
 ```bash
 @tailwind base;
 @tailwind components;
