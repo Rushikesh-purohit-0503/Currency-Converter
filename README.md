@@ -69,7 +69,7 @@ export default {
 - **[Vite](https://vitejs.dev/)**: Next-generation front-end tooling for fast development and build times.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for rapid UI development.
 
-   ## Acknowledgments
+## Acknowledgments
 
 - **[ExchangeRatesAPI](https://exchangeratesapi.io/)** for providing the exchange rate data.
 - **[React](https://reactjs.org/)** for the front-end library.
