@@ -42,7 +42,7 @@ Make sure you have the following installed:
 
 Customize your design in `tailwind.config.js` or add custom styles in `src/index.css`.
 
-Make sure this Configurations in `tailwind.config.js`: 
+Make sure this Configurations is there in `tailwind.config.js`: 
 ```bash
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -56,7 +56,7 @@ export default {
   plugins: [],
 }
 ```
-**Also Make sure that below code there in `index.css`:
+** Also Make sure that below code is there in `index.css`:
 ```bash
 @tailwind base;
 @tailwind components;
