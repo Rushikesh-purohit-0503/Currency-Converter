@@ -9,6 +9,8 @@
 
 The **Currency Converter** is a web application that allows users to convert amounts from one currency to another using real-time exchange rates. This app is built with **React**, **Vite**, and **Tailwind CSS**, ensuring a fast, modern, and responsive user experience.
 
+**🌐 Live Demo**: [Currency Converter](https://currency-converter-nine-orcin.vercel.app/)
+
 ## ✨ Features
 
 - 🌐 **Real-time Exchange Rates**: Fetches live exchange rates from a reliable API.
